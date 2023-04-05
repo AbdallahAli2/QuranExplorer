@@ -5,8 +5,8 @@ $(function(){
 		jPlayer=$("#jplayer"),
 		myPlayList = [
 			{name:"Suratul Ala",mp3:"audio/black_plant.mp3"},
-			{name:"Hidden",mp3:"audio/hidden.mp3"},
-			{name:"The Separation",mp3:"audio/separation.mp3"}
+			{name:"Suratul Ghashiyah",mp3:"audio/hidden.mp3"},
+			{name:"Suratul Fajr",mp3:"audio/separation.mp3"}
 		],		
 		jPlay=function(idx){
 			if(typeof idx==typeof 0)
