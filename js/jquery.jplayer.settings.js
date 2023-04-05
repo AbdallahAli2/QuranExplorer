@@ -4,9 +4,9 @@ $(function(){
 		title=$('.jp-interface .jp-title'),
 		jPlayer=$("#jplayer"),
 		myPlayList = [
-			{name:"Black Plant",mp3:"audio/black_plant.mp3",ogg:"audio/black_plant.ogg"},
-			{name:"Hidden",mp3:"audio/hidden.mp3",ogg:"audio/hidden.ogg"},
-			{name:"The Separation",mp3:"audio/separation.mp3",ogg:"audio/separation.ogg"}
+			{name:"Suratul Ala",mp3:"audio/black_plant.mp3"},
+			{name:"Hidden",mp3:"audio/hidden.mp3"},
+			{name:"The Separation",mp3:"audio/separation.mp3"}
 		],		
 		jPlay=function(idx){
 			if(typeof idx==typeof 0)
