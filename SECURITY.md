@@ -8,7 +8,7 @@
 | 2.0.2   | :white_check_mark: |
 | 2.0.1   | :white_check_mark: |
 | 2.0.0   | :white_check_mark: |
-| 1.0.2   | :yellow_circle:    |
+| 1.0.2   | :yellow_square:    |
 | 1.0.1   | :x:                |
 | 1.0.0   | :x:                |
 
