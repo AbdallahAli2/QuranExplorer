@@ -3314,3 +3314,18 @@ input, select, textarea {
 			}
 
 	}
+
+	.play-button {
+		border-radius: 100%;
+	}
+
+	.play-div {
+		height: 80px;
+		width: 100%;
+		background-color: #4aca50;
+	}
+
+	.play-text {
+		padding-top: 20px;
+		padding-left: 20px;
+	}
