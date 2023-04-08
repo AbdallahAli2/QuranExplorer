@@ -17,5 +17,7 @@
 
 If you do find a vulnerability, please report it on Github Issues, attach some proof, and send.
 We will usually have a look at it by at least the end of one week.
+This is a brand-new (still in development) website, so it is more likely to find
+a bug now rather then later.
 If we do find the vulnerability, we will mention you on our website, QuranExplorer.
 If we don't, do not worry! Keep looking and you may find one!
